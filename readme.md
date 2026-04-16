@@ -65,5 +65,3 @@ python main.py
 💬 Contact
 
 **For any questions, issues, or feedback:**
-
-    Your Name: sumirthakur@gmail.com
